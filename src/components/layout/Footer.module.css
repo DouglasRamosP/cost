@@ -3,12 +3,14 @@
     color: #fff;
     padding: 3em;
     text-align: center;
+    margin-top: 2em
   }
   
   .social_list {
     display: flex;
     justify-content: center;
     list-style-type: none;
+    margin-bottom: 1em; 
   }
   
   .social_list li {
